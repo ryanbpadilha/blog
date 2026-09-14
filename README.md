@@ -1,14 +1,16 @@
 # Blog 
 
-A personal blog
+Um blog pessoal
 
-## Pages
+Versão em inglês [/en](https://github.com/ryanbpadilha/blog/en)
+
+## Páginas
 
 - [Home](index.html)
-- [About](pages/about.html)
+- [Sobre mim](pages/about.html)
 - [Now](pages/now.html)
 
-## Built with
+## Feito com
 
 - HTML
 - CSS
