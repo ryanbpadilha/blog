@@ -2,7 +2,7 @@
 
 A personal blog
 
-Portuguese version [/](https://github.com/ryanbpadilha/blog)
+Portuguese version [/](https://github.com/ryanbpadilha/blog/blob/main)
 
 ## Pages
 

@@ -2,7 +2,7 @@
 
 Um blog pessoal
 
-Versão em inglês [/en](https://github.com/ryanbpadilha/blog/en)
+Versão em inglês [/en](https://github.com/ryanbpadilha/blog/blob/main/en)
 
 ## Páginas
 
